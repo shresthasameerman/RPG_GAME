@@ -1,0 +1,666 @@
+[
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAME.Build.cs",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAME.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAME.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMECharacter.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMECharacter.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMEGameMode.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMEGameMode.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMEPlayerController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/RPG_GAMEPlayerController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatAIController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatAIController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatEnemy.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatEnemy.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatEnemySpawner.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatEnemySpawner.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatStateTreeUtility.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/CombatStateTreeUtility.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/EnvQueryContext_Player.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/AI/EnvQueryContext_Player.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_CheckChargedAttack.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_CheckCombo.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Animation/AnimNotify_DoAttackTrace.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatCharacter.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatCharacter.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatGameMode.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatGameMode.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatPlayerController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/CombatPlayerController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatActivationVolume.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatActivationVolume.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatCheckpointVolume.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatCheckpointVolume.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatDamageableBox.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatDamageableBox.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatDummy.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatDummy.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatLavaFloor.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Gameplay/CombatLavaFloor.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatActivatable.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatActivatable.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatAttacker.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatAttacker.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatDamageable.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/Interfaces/CombatDamageable.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/UI/CombatLifeBar.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Combat/UI/CombatLifeBar.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/Animation/AnimNotify_EndDash.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/Animation/AnimNotify_EndDash.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingCharacter.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingCharacter.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingGameMode.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingGameMode.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingPlayerController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_Platforming/PlatformingPlayerController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingAIController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingAIController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingNPC.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingNPC.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/AI/SideScrollingStateTreeUtility.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingJumpPad.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingMovingPlatform.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingPickup.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingPickup.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Gameplay/SideScrollingSoftPlatform.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Interfaces/SideScrollingInteractable.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/Interfaces/SideScrollingInteractable.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingCameraManager.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingCameraManager.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingCharacter.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingCharacter.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingGameMode.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingGameMode.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingPlayerController.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/SideScrollingPlayerController.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/UI/SideScrollingUI.cpp",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	},
+	{
+		"file": "/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/Source/RPG_GAME/Variant_SideScrolling/UI/SideScrollingUI.h",
+		"arguments": [
+			"/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v25_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/sameer-man-shrestha/Documents/Unreal Projects/RPG_GAME/.vscode/compileCommands_RPG_GAME/RPG_GAME.1.rsp"
+		],
+		"directory": "/home/sameer-man-shrestha/Linux_Unreal_Engine_5.6.1/Engine/Source"
+	}
+]
